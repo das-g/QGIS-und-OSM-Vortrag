@@ -4,9 +4,22 @@ slideOptions:
   transition: slide
 ---
 
+[Zehntes Treffen der Schweizerischen QGIS-Anwender](https://www.qgis.ch/de/verein/anwendertreffen/anwendertreffen-olten-2019)
+Olten 2019-06-13
+
 # QGIS und OpenStreetMap
 
----
+Raphael Das Gupta
+[HSR](https://www.hsr.ch) | [IFS](https://ifs.hsr.ch) | [Geometa Lab](https://www.ifs.hsr.ch/Geometa-Lab.12520.0.html)
+[SOSM](https://sosm.ch)
+
+----
+
+<!-- .slide: data-background="#fff" -->
+
+# ![QGIS logo](https://www.qgis.org/en/_downloads/qgis-icon128.svg =200x200) & ![OSM logo](https://wiki.openstreetmap.org/w/images/7/79/Public-images-osm_logo.svg  =200x200)
+
+----
 
 * OpenStreetMap (OSM)
     * Datenmodell
@@ -251,6 +264,10 @@ osmaxx.hsr.ch
 
 ----
 
+openschoolmaps.ch > Unterrichtsmaterialien > OpenStreetMap-Daten beziehen und mit QGIS 3 nutzen
+
+----
+
 Daten oder nur (Basis-)Karte?
 
 ----
@@ -291,6 +308,7 @@ Underschiedliche Schemata / Mappings je nach Anbieter
 ### Weitere Plugins
 
 * OSM place search (Nominatim)
+    * [x] Show also experimental plugins
 * ORS Tools (openrouteservice.org)
     * Routing
     * Isochronen
