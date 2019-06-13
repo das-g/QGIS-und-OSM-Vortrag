@@ -313,3 +313,11 @@ Underschiedliche Schemata / Mappings je nach Anbieter
     * Routing
     * Isochronen
     * Matrix-Berechnungen
+
+---
+
+[<i class="fa fa-github"></i>/das-g](https://github.com/das-g)
+
+[<i class="fa fa-gitlab"></i>/das-g](https://gitlab.com/das-g)
+
+<i class="fa fa-twitter"></i> [@RaphaelDasG](https://twitter.com/RaphaelDasG)
