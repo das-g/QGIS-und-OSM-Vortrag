@@ -11,7 +11,7 @@ Olten 2019-06-13
 
 für [CodiMD](https://codimd.org/)
 
-* [Auf der CodiMD-Installation des Coredump](https://md.coredump.ch/QGIS-und-OSM-Vortrag_2019-06-13?both)
+* [auf der CodiMD-Installation des Coredump](https://md.coredump.ch/QGIS-und-OSM-Vortrag_2019-06-13?both)
 * [backup](QGIS%20und%20OpenStreetMap.md) in diesem Repo
 
 (Wird auf GitHub nicht korrekt gerendert, da
