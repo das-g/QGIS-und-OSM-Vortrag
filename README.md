@@ -6,6 +6,7 @@ Olten 2019-06-13
 ## Für Vollbild-Präsentation
 
 * [Slide mode](https://md.coredump.ch/p/QGIS-und-OSM-Vortrag_2019-06-13), dort <kbd>F</kbd> drücken
+* als Fallback: [PDF](QGIS%20und%20OpenStreetMap.pdf)
 
 ## MarkDown-Quellcode
 
