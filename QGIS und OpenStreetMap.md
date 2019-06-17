@@ -19,6 +19,10 @@ Raphael Das Gupta
 
 # ![QGIS logo](https://www.qgis.org/en/_downloads/qgis-icon128.svg =200x200) & ![OSM logo](https://wiki.openstreetmap.org/w/images/7/79/Public-images-osm_logo.svg  =200x200)
 
+Raphael Das Gupta
+[HSR](https://www.hsr.ch) | [IFS](https://ifs.hsr.ch) | [Geometa Lab](https://www.ifs.hsr.ch/Geometa-Lab.12520.0.html)
+[SOSM](https://sosm.ch)
+
 ----
 
 * OpenStreetMap (OSM)
